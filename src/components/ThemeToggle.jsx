@@ -1,6 +1,7 @@
 import { Moon, Sun } from "lucide-react";
 import { useEffect, useState } from "react";
 import { cn } from '@/lib/utils';
+import React from "react";
 
 export default function ThemeToggle() {
     const [isdarkMode, setDarkMode] = useState(false);
