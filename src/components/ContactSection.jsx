@@ -25,9 +25,8 @@ export default function ContactSection() {
                                     <div>
                                         <h4 className="font-medium">Email</h4>
                                         <a href="mailto:kamaldotio@zohomail.in"
-                                            className="text-muted-foreground hover:text-primary transition-colors">Kamalvish.career@gmail.com</a>
+                                            className="text-muted-foreground hover:text-primary transition-colors">kamaldotio@zohomail.in</a>
                                     </div>
-
                                 </div>
                             </div>
                             <div className="space-y-6 justify-center">
@@ -58,7 +57,7 @@ export default function ContactSection() {
                             <div className="pt-8">
                                 <h4 className="font-medium mb-4">Connect With Me</h4>
                                 <div className="flex space-x-4 justify-center">
-                                    <a href="#" target="_blank"><LinkedinIcon/></a>
+                                    <a href="https://www.linkedin.com/in/kamal-vishwakarma-b5a900342/" target="_blank"><LinkedinIcon/></a>
                                     <a href="#" target="_blank"><InstagramIcon/></a>
                                     <a href="#" target="_blank"><FacebookIcon/></a>
                                     <a href="#" target="_blank"><TwitterIcon/></a>
