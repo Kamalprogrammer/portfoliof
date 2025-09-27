@@ -14,10 +14,7 @@ export const HeroSection = () => {
                     </h1>
                     <p
                         className="text-lg md:text-xl text-muted-foreground mx-2-2xl mx-auto opacity-0 animate-fade-in-delay-3"
-                    >Lorem ipsum dolor, sit amet consectetur
-                        adipisicing elit. Quisquam quas adipisci
-                        dolorum illum deserunt. Temporibus quas sequi
-                        praesentium animi ea.</p>
+                    >I am passionate about designing and building with the MERN stack, turning ideas into practical, creative solutions. I focus on delivering results with dedication, attention to detail, and a love for making things that truly work.</p>
                     <div className="pt-4 opacity-0 animate-fade-in-delay-4">
                         <a href="#projects" className="cosmic-button">
                             View My Work

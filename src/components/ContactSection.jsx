@@ -24,7 +24,7 @@ export default function ContactSection() {
                                     </div>
                                     <div>
                                         <h4 className="font-medium">Email</h4>
-                                        <a href="mailto:kamalvish.career@gmail.com"
+                                        <a href="mailto:kamaldotio@zohomail.in"
                                             className="text-muted-foreground hover:text-primary transition-colors">Kamalvish.career@gmail.com</a>
                                     </div>
 
