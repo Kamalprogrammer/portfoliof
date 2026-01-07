@@ -15,11 +15,7 @@ export const AboutSection = () => {
                         <h3 className="text-2xl font-semibold">Passionate Web Developer & Tech Creator
 
                         </h3>
-                        <p className="text-muted-foreground "> B.Tech CSE graduate having core
-                            Technical skills of Programming In C, C++, JaavScript,
-                            Python and Good Undersatnding of Data Structure and Algorithm,
-                            DataBase(SQL, MySQL, MongoDB). I specialize in creative responsive,
-                            sccessible, and performant web application using MERN Techlogies.
+                        <p className="text-muted-foreground "> MERN Stack Developer with a B.Tech in Computer Science & Engineering, experienced in building scalable, production-ready full-stack web applications. Strong command over JavaScript and Python with solid knowledge of core CSE subjects like DSA and DBMS. Proficient in MongoDB, Express.js, React.js, and Node.js, focused on clean architecture, performance optimization, and modern UI/UX practices.
                         </p>
 
                         <p className="text-muted-foreground hidden sm:block ">
@@ -30,7 +26,7 @@ export const AboutSection = () => {
                         </p>
                         <div className="flex flex-col sm:flex-row gap-4 pt-4 mb-10 justify-center">
                             <a href="#contact" className="cosmic-button">Get In Touch</a>
-                            <a href="https://drive.google.com/file/d/1NLXfXhuAV0HZM1H49Pqeo3UHN0pUMC7s/view?usp=drive_link" className="px-6 py-2  rounded-full border border-primary hover:bg-primary/10 ">
+                            <a href="https://drive.google.com/file/d/1owdqOpSuaELqbwuQszr2bt2p9Nvczmid/view?usp=sharing" className="px-6 py-2  rounded-full border border-primary hover:bg-primary/10 ">
                                 Download CV
                             </a>
                         </div>
